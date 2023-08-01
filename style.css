@@ -46,7 +46,7 @@ nav a:hover{
 nav li{
     list-style-type: none;
     display: inline-block;
-    padding-right: 2px;
+    padding-right: 4px;
 }
 
 nav{
@@ -89,7 +89,7 @@ h2, h4{
 
 .footer{
     border-top: 4px double #000;
-    padding-top: 10px;
+    padding-top: 25px;
     width: 700px;
     margin: 0 auto;
     text-align: center;
